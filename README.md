@@ -1,2 +1,2 @@
 # scrms
-This is project is made by Turikumana Isaie l5 sod a make sure to sbuscribe to his channel tief software lab
+This is a school practical exam project that made by Turikumana Isaie L5 SOD A with all love and support, make sure to sbuscribe to his channel tief software lab.
